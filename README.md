@@ -17,7 +17,6 @@ Here are some ideas to get you started:
   <h1>Hi there 👋, I'm KiR</h1>
 </div>
 
-## About me  
 - 🧑‍💻 I'm a Software Engineer  
 - 🌱 I’m currently learning Golang
 - 💡 I love solving problems and building stuff that works ⚡  
